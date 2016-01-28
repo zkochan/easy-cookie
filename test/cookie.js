@@ -1,5 +1,6 @@
 'use strict';
 
+var expect = require('chai').expect;
 var cookie = require('../');
 
 describe('Cookie', function() {
